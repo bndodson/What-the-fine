@@ -1,0 +1,12 @@
+pandas
+numpy
+carto2gpd
+datetime
+geopandas
+hvplot.pandas
+matplotlib
+holoviews
+hvplot
+panel
+colorcet
+param
